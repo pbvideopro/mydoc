@@ -42,7 +42,7 @@ export default defineConfig({
     darkModeSwitchLabel: 'Giao diện',
     sidebarMenuLabel: 'Menu',
     returnToTopLabel: 'Lên đầu trang',
-    outline: { label: 'Trên trang này' },
+    outline: { level: [2, 3], label: 'ON THIS PAGE' },
     docFooter: { prev: 'Trang trước', next: 'Trang sau' }
   }
 })
