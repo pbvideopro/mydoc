@@ -1,13 +1,11 @@
-# Demo các tính năng
+---
+outline: [2, 3]
+---
 
-::: warning Nội dung mẫu
-Trang này chỉ chứa văn bản giữ chỗ (sample), không phải tài liệu thật.
-:::
+<p class="crumb">GETTING STARTED</p>
 
-## Tính năng A (mẫu)
+<h1 class="page-title"><span class="ti"></span>Demo các tính năng</h1>
 
-Lorem ipsum dolor sit amet — mô tả giữ chỗ.
+<p class="sample-note">Nội dung mẫu: văn bản giữ chỗ, không phải tài liệu thật.</p>
 
-## Tính năng B (mẫu)
-
-Lorem ipsum dolor sit amet — mô tả giữ chỗ.
+<div class="video-box"><div class="play"></div><span class="label">Video mẫu (placeholder), chưa có video thật</span></div>

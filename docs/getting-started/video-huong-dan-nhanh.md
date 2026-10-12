@@ -1,9 +1,13 @@
-# Video hướng dẫn nhanh
+---
+outline: [2, 3]
+---
 
-::: warning Nội dung mẫu
-Trang này chỉ chứa văn bản giữ chỗ (sample), không phải tài liệu thật.
-:::
+<p class="crumb">GETTING STARTED</p>
 
-1. Bước một: nội dung giữ chỗ.
-2. Bước hai: nội dung giữ chỗ.
-3. Bước ba: nội dung giữ chỗ.
+<h1 class="page-title"><span class="ti"></span>Video hướng dẫn nhanh</h1>
+
+<p class="sample-note">Nội dung mẫu: văn bản giữ chỗ, không phải tài liệu thật.</p>
+
+<div class="callout-warn"><strong>Lưu ý:</strong> Hãy chuyển sang model <strong>LITE</strong> thay vì <s>RELAX</s> để chạy ổn định hơn.</div>
+
+<div class="video-box"><div class="play"></div><span class="label">Video mẫu (placeholder), chưa có video thật</span></div>
