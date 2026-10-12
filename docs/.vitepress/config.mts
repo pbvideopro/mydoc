@@ -4,7 +4,7 @@ export default defineConfig({
   lang: 'vi-VN',
   title: 'My Docs',
   description: 'Tài liệu mẫu (nội dung giữ chỗ)',
-  base: '/my-docs/',
+  base: '/mydoc/',
   appearance: true,
   themeConfig: {
     nav: [{ text: 'Trang chủ', link: '/' }, { text: 'Hướng dẫn nhanh', link: '/getting-started/quickstart' }],
