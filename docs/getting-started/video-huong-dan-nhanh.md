@@ -1,4 +1,4 @@
-# Hướng dẫn nhanh
+# Video hướng dẫn nhanh
 
 ::: warning Nội dung mẫu
 Trang này chỉ chứa văn bản giữ chỗ (sample), không phải tài liệu thật.
